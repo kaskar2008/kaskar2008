@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**kaskar2008/kaskar2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaskar2008&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaskar2008&count_private=true&show_icons=true&custom_title=GitHub&nbsp;Stats) -->
 
 - 🔭 I’m currently working on Component Generation From Figma and Declarative Business/UX Flow Tool
 - 🌱 I’m currently learning Software Architecture and being a Team Lead.
